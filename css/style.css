@@ -228,6 +228,9 @@ img {
   display: flex;
   gap: 24px;
 }
+.hero-div {
+  padding: 32px 0;
+}
 .team-card {
   background-color: #ffffff;
   width: calc((100%-72px) / 4);
