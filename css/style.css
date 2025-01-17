@@ -75,7 +75,7 @@ img {
 .header-list {
   display: flex;
   align-items: center;
-  column-gap: 40px;
+  gap: 40px;
 }
 .header-contact-list {
   display: flex;
@@ -331,7 +331,7 @@ img {
   max-width: 264px;
 }
 
-.logo {
+.footer-logo {
   display: inline-block;
   margin-bottom: 16px;
 }
