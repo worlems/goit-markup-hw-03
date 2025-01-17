@@ -264,9 +264,7 @@ img {
 .portfolio-section {
   padding: 120px 0;
 }
-.portio-title-div {
-  margin-bottom: 72px;
-}
+
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
@@ -281,6 +279,9 @@ img {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
+}
+.portfolio-our {
+  margin-bottom: 72px;
 }
 
 .portfolio-card {
