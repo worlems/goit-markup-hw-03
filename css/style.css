@@ -235,7 +235,7 @@ img {
 }
 .team-card {
   background-color: #ffffff;
-  width: calc((100%-72px) / 4);
+  width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
 }
 .team-img {
@@ -257,6 +257,8 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+}
+.team-list-link {
 }
 /*  */
 .portfolio-section {
